@@ -1,0 +1,22 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Roboto", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+  a, p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 600px;
+    margin: 3% auto;
+    padding: 0 20px 20px 20px;
+  }
+  h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  
+  
