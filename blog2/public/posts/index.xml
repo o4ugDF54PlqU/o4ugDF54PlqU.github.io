@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Find my ramblings catalogued here</title>
+    <link>https://o4ugdf54plqu.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Find my ramblings catalogued here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 15:52:11 -0400</lastBuildDate>
+    
+	<atom:link href="https://o4ugdf54plqu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Half Life Alyx</title>
+      <link>https://o4ugdf54plqu.github.io/blog/posts/hla/</link>
+      <pubDate>Wed, 22 Mar 2023 15:52:11 -0400</pubDate>
+      
+      <guid>https://o4ugdf54plqu.github.io/blog/posts/hla/</guid>
+      <description>It&amp;rsquo;s Half Life, but in VR, expect linear corridors and physics puzzles. That wouldn&amp;rsquo;t be so bad on its own, except the game forces you to scavenge for ammo and supplies so a third of your playtime is just searching drawers and shelves which gets boring pretty quick. This also means you don&amp;rsquo;t really get to have fun with your guns until the final chapters, which is a shame since the guns are pretty fun to use.</description>
+    </item>
+    
+    <item>
+      <title>XCOM Chimera Squad Review</title>
+      <link>https://o4ugdf54plqu.github.io/blog/posts/xcomcs/</link>
+      <pubDate>Wed, 22 Mar 2023 15:49:48 -0400</pubDate>
+      
+      <guid>https://o4ugdf54plqu.github.io/blog/posts/xcomcs/</guid>
+      <description>TLDR CS is for you if you save scummed in the other XCOM games so that nobody dies.
+Full Review If XCOM 2 is a full three course meal, then Chimera Squad is drive thru burger and fries. It&amp;rsquo;s not as deep or as fleshed out as 2, but sometimes you just want the burger. Chimera Squad is what happens when you take XCOM 2 and repackage it to be played in short bursts.</description>
+    </item>
+    
+  </channel>
+</rss>

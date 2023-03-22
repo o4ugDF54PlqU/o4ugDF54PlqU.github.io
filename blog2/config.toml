@@ -1,0 +1,8 @@
+baseURL = "https://o4ugdf54plqu.github.io/blog/"
+languageCode = "en-us"
+title = "Find my ramblings catalogued here"
+theme = 'ananke'
+
+[params]
+  body_classes = "helvetica"
+  post_content_classes = "helvetica"
