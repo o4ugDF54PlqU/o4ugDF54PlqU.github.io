@@ -6,38 +6,35 @@
     <description>Recent content in Posts on Find my ramblings catalogued here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 17:46:30 -0400</lastBuildDate>
-    
-	<atom:link href="https://o4ugdf54plqu.github.io/blog2/public/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Mar 2023 19:59:09 -0400</lastBuildDate>
+    <atom:link href="https://o4ugdf54plqu.github.io/blog2/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muv Luv: Alternative</title>
+      <link>https://o4ugdf54plqu.github.io/blog2/public/posts/mla/</link>
+      <pubDate>Wed, 22 Mar 2023 19:59:09 -0400</pubDate>
+      <guid>https://o4ugdf54plqu.github.io/blog2/public/posts/mla/</guid>
+      <description>TLDR Shinji got in the robot but it took 35 hours and we had to listen to his every stray thought. This VN is the epitome of tell don&amp;rsquo;t show. Buy only if you are 14 and think an hour long internal monologue about obeying orders is deep. tbf you&amp;rsquo;re getting a lot of decent animations and a typical but not bad mecha anime story here, but I wish I could have spent those 30 hours playing a better visual novel that respects my time (the other 10 hours is pretty good tho).</description>
+    </item>
     <item>
       <title>Find Love or Die Trying</title>
       <link>https://o4ugdf54plqu.github.io/blog2/public/posts/flodt/</link>
       <pubDate>Wed, 22 Mar 2023 17:46:30 -0400</pubDate>
-      
       <guid>https://o4ugdf54plqu.github.io/blog2/public/posts/flodt/</guid>
       <description>Over the past year or two I&amp;rsquo;ve been recommended by a lot of people to give FLoDT a try, and I recently finally found the time to. The story was pretty predictable for the most part, and the characters just aren&amp;rsquo;t really given the time to develop. Art and music was rather forgettable. I also hate the fake choices the game give you, there&amp;rsquo;s a hundred of them and only like 3 actually matter.</description>
     </item>
-    
     <item>
       <title>Half Life Alyx</title>
       <link>https://o4ugdf54plqu.github.io/blog2/public/posts/hla/</link>
       <pubDate>Wed, 22 Mar 2023 15:52:11 -0400</pubDate>
-      
       <guid>https://o4ugdf54plqu.github.io/blog2/public/posts/hla/</guid>
       <description>It&amp;rsquo;s Half Life, but in VR, expect linear corridors and physics puzzles. That wouldn&amp;rsquo;t be so bad on its own, except the game forces you to scavenge for ammo and supplies so a third of your playtime is just searching drawers and shelves which gets boring pretty quick. This also means you don&amp;rsquo;t really get to have fun with your guns until the final chapters, which is a shame since the guns are pretty fun to use.</description>
     </item>
-    
     <item>
       <title>XCOM Chimera Squad Review</title>
       <link>https://o4ugdf54plqu.github.io/blog2/public/posts/xcomcs/</link>
       <pubDate>Wed, 22 Mar 2023 15:49:48 -0400</pubDate>
-      
       <guid>https://o4ugdf54plqu.github.io/blog2/public/posts/xcomcs/</guid>
-      <description>TLDR Chimera Squad is for you if you save scummed in the other XCOM games so that nobody dies.
-Full Review If XCOM 2 is a full three course meal, then Chimera Squad is drive thru burger and fries. It&amp;rsquo;s not as deep or as fleshed out as 2, but sometimes you just want the burger. Chimera Squad is what happens when you take XCOM 2 and repackage it to be played in short bursts.</description>
+      <description>TLDR Chimera Squad is for you if you save scummed in the other XCOM games so that nobody dies.&#xA;Full Review If XCOM 2 is a full three course meal, then Chimera Squad is drive thru burger and fries. It&amp;rsquo;s not as deep or as fleshed out as 2, but sometimes you just want the burger. Chimera Squad is what happens when you take XCOM 2 and repackage it to be played in short bursts.</description>
     </item>
-    
   </channel>
 </rss>

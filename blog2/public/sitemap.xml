@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/flodt/</loc>
-    <lastmod>2023-03-22T17:46:30-04:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/</loc>
-    <lastmod>2023-03-22T17:46:30-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-22T19:59:09-04:00</lastmod>
+  </url><url>
+    <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/mla/</loc>
+    <lastmod>2023-03-22T19:59:09-04:00</lastmod>
+  </url><url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/</loc>
+    <lastmod>2023-03-22T19:59:09-04:00</lastmod>
+  </url><url>
+    <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/flodt/</loc>
     <lastmod>2023-03-22T17:46:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/hla/</loc>
     <lastmod>2023-03-22T15:52:11-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/posts/xcomcs/</loc>
     <lastmod>2023-03-22T15:49:48-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://o4ugdf54plqu.github.io/blog2/public/tags/</loc>
   </url>
-  
 </urlset>
