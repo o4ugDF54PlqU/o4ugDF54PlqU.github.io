@@ -1,6 +1,6 @@
 ---
 title: "Muv Luv: Alternative"
-date: 2023-03-22T19:59:09-04:00
+date: 2024-01-05T17:32:09-04:00
 draft: false
 ---
 
