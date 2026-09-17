@@ -1,5 +1,5 @@
 baseURL = "https://o4ugdf54plqu.github.io/blog2/public"
-languageCode = "en-us"
+locale = "en-us"
 title = "Find my ramblings catalogued here"
 theme = 'ananke'
 
