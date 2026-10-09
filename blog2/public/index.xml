@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 23:38:49 -0400</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 13:05:50 -0400</lastBuildDate>
 		
 			<atom:link href="https://o4ugdf54plqu.github.io/blog2/public/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tactical Annihilation</title>
+				<link>https://o4ugdf54plqu.github.io/blog2/public/posts/tacann/</link>
+				<pubDate>Fri, 09 Oct 2026 13:05:50 -0400</pubDate>
+				<guid>https://o4ugdf54plqu.github.io/blog2/public/posts/tacann/</guid>
+				<description>&lt;p&gt;I haven&amp;rsquo;t played the original Total Annihilation but I&amp;rsquo;ve played a lot of Beyond All Reason and a bit of Supreme Commander, and I&amp;rsquo;ve played a decent amount of Advanced Wars and recent indie inspired versions. So when I saw an indie game on my Steam Calendar:tm: I was excited to try a mashup between the two genres.&lt;/p&gt;&#xA;&lt;p&gt;Unfortunately, when you take two things and combine them, sometimes you end up with the worst of both worlds. I think it&amp;rsquo;s very hard to combine these two gameplay styles, they are sort of diametrically opposed. Turn based games are more inherently tactical, which means precise unit placement and unit choice is emphasized, while large scale RTS are more strategic, emphasizing more the long term decision making and economy build out. Props to the devs for trying but here&amp;rsquo;s where I think things went wrong:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Void War</title>
+				<link>https://o4ugdf54plqu.github.io/blog2/public/posts/voidwar/</link>
+				<pubDate>Fri, 09 Oct 2026 12:52:30 -0400</pubDate>
+				<guid>https://o4ugdf54plqu.github.io/blog2/public/posts/voidwar/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m working on a project that&amp;rsquo;s inspired by FTL, so I decided I should do some market research on the one other FTL-like out there: Void War. After playing it for a week, I think it is better than FTL in some small design aspects but as a whole package the balance makes the game very tedious. There are also a number of other areas where the game is a clear downgrade from FTL: limited build options, boring writing, and muddy aesthetic.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Is it really AI &#39;art&#39;? 2: Revengence</title>
 				<link>https://o4ugdf54plqu.github.io/blog2/public/posts/aigenart2/</link>
